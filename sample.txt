@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Home Page</title>
+</head>
+<body>
+<center>
+<h1> Hello All</h1>
+<p>My 1st git file pages.</p>
+</center>
+</body>
+</html>
